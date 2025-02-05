@@ -8,16 +8,10 @@
 
 ## 🎯 Funcionalidades
 
-- [x] `Inscrever-se`: se inscreva na newsletter colocando seu e-mail, para receber novidades e futuros conteúdos. 
+- [x] Se inscrever na newsletter colocando seu e-mail, para receber novidades e futuros conteúdos. 
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
-
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
-
-## 🚧 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
+- `HTML`
+- `CSS`
+- `JavaScript`
